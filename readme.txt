@@ -41,6 +41,14 @@ how it was at your last commit.
 >git diff
 Now with what you just learned above, commit this latest change.
 >git commit readme.txt -m "Updated readme.txt file step 3 of 11."
+>git-it verify
 =========================================================
 4. Github
+Create github account: MalcolmGC SE.Consulting,Services@Gmail.com
+>git config --list
+>[Don't need - did before.] git config --global user.username MalcolmGC
+>git-it verify
+=====================================================================
+
+
 
