@@ -30,10 +30,10 @@ git status
   Changes to be committed: [~32 files]
   =========================================
 3. Commit
-> git add readme.txt [this file]
+>git add readme.txt [this file]
 Commit this change to the repository's history with a short description.
 >[No - gets all files] git commit -m "<your commit message>"
->git commit readme.txt -m "Initial save of the readme.txt file through step 3 of 11."
+>git commit .\readme.txt -m "Initial save of the readme.txt file through step 3 of 11."
 Step: Make More Changes
 Now add another line to readme.txt and save.
 In terminal, you can view the difference between the file now and 
@@ -41,3 +41,6 @@ how it was at your last commit.
 >git diff
 Now with what you just learned above, commit this latest change.
 >git commit readme.txt -m "Updated readme.txt file step 3 of 11."
+=========================================================
+4. Github
+
