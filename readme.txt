@@ -47,6 +47,7 @@ Now with what you just learned above, commit this latest change.
 Create github account: MalcolmGC SE.Consulting,Services@Gmail.com
 >git config --list
 >[Don't need - did before.] git config --global user.username MalcolmGC
+>git commit readme.txt -m "Updated readme.txt file step 4 of 11."
 >git-it verify
 =====================================================================
 
